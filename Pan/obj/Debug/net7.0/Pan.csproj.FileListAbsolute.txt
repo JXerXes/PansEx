@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Pan\Pan\bin\Debug\net7.0\Pan.exe
+C:\Users\Lenovo\source\repos\Pan\Pan\bin\Debug\net7.0\Pan.deps.json
+C:\Users\Lenovo\source\repos\Pan\Pan\bin\Debug\net7.0\Pan.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Pan\Pan\bin\Debug\net7.0\Pan.dll
+C:\Users\Lenovo\source\repos\Pan\Pan\bin\Debug\net7.0\Pan.pdb
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.dll
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\refint\Pan.dll
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.pdb
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\Pan.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Pan\Pan\obj\Debug\net7.0\ref\Pan.dll
