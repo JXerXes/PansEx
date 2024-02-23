@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj": {}
+    "C:\\Users\\user1\\source\\repos\\PansEx\\Pan\\Pan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj": {
+    "C:\\Users\\user1\\source\\repos\\PansEx\\Pan\\Pan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\source\\repos\\PansEx\\Pan\\Pan.csproj",
         "projectName": "Pan",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\obj\\",
+        "projectPath": "C:\\Users\\user1\\source\\repos\\PansEx\\Pan\\Pan.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\source\\repos\\PansEx\\Pan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,6 +51,10 @@
             "Microsoft.Data.Sqlite": {
               "target": "Package",
               "version": "[7.0.16, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.18.1, )"
             }
           },
           "imports": [
@@ -74,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
