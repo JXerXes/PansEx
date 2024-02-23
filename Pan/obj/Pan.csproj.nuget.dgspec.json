@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Source\\Repos\\PansEx\\Pan\\Pan.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Source\\Repos\\PansEx\\Pan\\Pan.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Source\\Repos\\PansEx\\Pan\\Pan.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj",
         "projectName": "Pan",
-        "projectPath": "C:\\Users\\user1\\Source\\Repos\\PansEx\\Pan\\Pan.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Source\\Repos\\PansEx\\Pan\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,11 +74,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
->>>>>>> 719cfe445ca53a3e16b0c2d3c5d87615c6c99b6d
         }
       }
     }

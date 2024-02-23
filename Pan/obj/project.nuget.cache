@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "sg/UvbkQWKnHOjoZo72Ro5uPRoDjeON5+mR2LdXbxh2AwIVEWewZdiESlJFCotiP3vCtheqqstDfx6nrm08RvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\Pan.csproj",
@@ -53,11 +52,12 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "4FW/yVoStLE+0qp0LW+atFDOvUso01e7a8WdU1gRKJKtfBFeZYgEdgFNaxqXAC8hRg5GpCSMvKmCSvNztZdexA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Source\\Repos\\PansEx\\Pan\\Pan.csproj",
-  "expectedPackageFiles": [],
->>>>>>> 719cfe445ca53a3e16b0c2d3c5d87615c6c99b6d
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Lenovo\\source\\repos\\Pan\\Pan\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

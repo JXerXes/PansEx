@@ -10,7 +10,7 @@ namespace Pan
 {
     public class PansDataBase
     {
-        private void PansCreate()
+        public void ConnectionCreate()
         {
             using var connection = new SqliteConnection("Data source = Pans.db");
             connection.Open();
@@ -27,24 +27,18 @@ namespace Pan
             command.CommandText = createPansTableQuery;
             command.ExecuteNonQuery();
 
-        }
-        private void ProducerCreate() 
-        {
-            using var connection = new SqliteConnection("Data source = producer.db");
+            using var SecondaryConnection = new SqliteConnection("Data source = producer.db");
             connection.Open();
             string createProducerTable = @"
                 CREATE TABLE IF NOT EXISTS producer (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 company TEXT NOT NULL
             );";
-            var command = connection.CreateCommand();
+            var SecondaryCommand = connection.CreateCommand();
             command.CommandText = createProducerTable;
             command.ExecuteNonQuery();
         }
-        public void FullConnection() 
-        {
-            PansCreate();
-            ProducerCreate();
-        }
+ 
+        
     };
 }
