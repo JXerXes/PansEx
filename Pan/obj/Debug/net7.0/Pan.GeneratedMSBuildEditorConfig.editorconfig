@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pan
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Lenovo\source\repos\Pan\Pan\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+build_property.ProjectDir = C:\Users\user1\Source\Repos\PansEx\Pan\
+>>>>>>> 719cfe445ca53a3e16b0c2d3c5d87615c6c99b6d
