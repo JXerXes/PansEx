@@ -56,6 +56,10 @@
             "Microsoft.Data.Sqlite": {
               "target": "Package",
               "version": "[7.0.16, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.18.1, )"
             }
           },
           "imports": [

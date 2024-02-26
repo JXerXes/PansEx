@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c139c69991b8df7d5002c309a9f875a47d549b3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a67010591c39244379a44121ca6c774e974bb075")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
